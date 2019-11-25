@@ -3,6 +3,14 @@
   <meta charset="utf-8">
 	<title>CSS Inline</title>
 </head>
+<head>
+  <title>estilos basicos</title>
+</head>
+<style type="text/css">
+body {
+    padding-left: 11em;
+<body>
+
   <body>
 <h1 style="color: red; margin-bottom: 10px; font-size: 40px;">Estilos in line</h1>
 p style="color: green; font-style: italic; background-color: yellow; padding: 20px;">Primero vamos a aprender Estilos in line.</p>
